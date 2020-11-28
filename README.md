@@ -1,6 +1,6 @@
 # Cuarentenas
 Información a nivel comunal y diario de las cuarentenas impuestas en Chile.
-Esta información se ha digitalizado utilizando los reportes que realiza el Ministerio de Salud. La información contenida puede diferir por concepto de horas en la aplicación de una cuarentena, por lo cual, se pide utilizar bajo ese cuidado e informar si estos datos difieren sustancialmente.
+Esta información se ha digitalizado utilizando los reportes que realiza el Ministerio de Salud. La información contenida puede diferir por concepto de horas en la aplicación de una cuarentena, por lo cual, se pide utilizar bajo ese cuidado e informar si estos datos difieren sustancialmente. Notar que se considera comuna en cuarentena solo las que están en fase 1, desde fase 2 en adelante se encuentran clasificadas como 0.
 
 ## Variables
 - **comuna**: Código único de comuna
@@ -10,5 +10,5 @@ Esta información se ha digitalizado utilizando los reportes que realiza el Mini
 
 
 ```
-Última actualización al 11-11-2020.
+Última actualización al 28-11-2020.
 ```

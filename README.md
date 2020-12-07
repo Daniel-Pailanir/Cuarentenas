@@ -6,9 +6,9 @@ Esta información se ha digitalizado utilizando los reportes que realiza el Mini
 - **comuna**: Código único de comuna
 - **region**: Código único de región
 - **nombre**: Nombre de comuna
-- **dd-mm-yyyy**: Variables binarias que toman valor 1 si la comuna tiene cuarentena total/parcial activa. Solo fase 1.
+- **dd-mm-yyyy**: Variables binarias que toman valor 1 si la comuna tiene cuarentena total/parcial activa.
 
 
 ```
-Última actualización al 28-11-2020.
+Última actualización al 07-12-2020.
 ```

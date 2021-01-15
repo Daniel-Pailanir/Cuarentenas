@@ -10,5 +10,5 @@ Esta información se ha digitalizado utilizando los reportes que realiza el Mini
 
 
 ```
-Última actualización al 09-01-2021.
+Última actualización al 16-01-2021.
 ```

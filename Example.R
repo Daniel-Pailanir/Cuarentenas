@@ -26,7 +26,7 @@ ggplot(mydata2,
   scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) +
   labs(y = "", 
        x = "", 
-       title = "Municipalities of Chile Under Quarantine") +
+       title = "Comunas en Cuarentena") +
   theme_bw() +
   theme(panel.grid.minor = element_blank(),
         axis.text.x = element_text(angle = 45, 

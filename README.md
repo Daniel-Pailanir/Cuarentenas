@@ -10,7 +10,7 @@ Esta información se ha digitalizado utilizando los reportes que realiza el Mini
 
 Gráfico de las comunas que se encuentran bajo cuarentena (Fase 1):
 
-![ss|400x200,20%](Quarantine.png)
+![ss|100x500,20%](Quarantine.png)
 
 
 ```

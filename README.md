@@ -9,7 +9,9 @@ Esta información se ha digitalizado utilizando los reportes que realiza el Mini
 - **dd-mm-yyyy**: Variables binarias que toman valor 1 si la comuna tiene cuarentena total/parcial activa.
 
 Gráfico de las comunas que se encuentran bajo cuarentena (Fase 1):
-![](Quarantine.png)
+
+![ss](Quarantine.png){:height="50%" width="50%"}
+
 
 ```
 Última actualización al 21-01-2021.

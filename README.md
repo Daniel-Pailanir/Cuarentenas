@@ -11,7 +11,7 @@ Esta información se ha digitalizado utilizando los reportes que realiza el Mini
 Gráfico de las comunas que se encuentran bajo cuarentena (Fase 1):
 
 ![ss](Quarantine.png){:height="36px" width="36px"}
-
+![ss]
 ```
 Última actualización al 21-01-2021.
 ```

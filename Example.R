@@ -32,4 +32,4 @@ ggplot(mydata2,
         axis.text.x = element_text(angle = 45, 
                                    hjust = 1))
 
-ggsave("Quarantine.png", dpi=500)
+ggsave("Quarantine.png", dpi=750)

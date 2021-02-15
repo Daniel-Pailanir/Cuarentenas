@@ -14,5 +14,5 @@ Gráfico de las comunas que se encuentran bajo cuarentena (Fase 1):
 
 
 ```
-Última actualización al 11-02-2021.
+Última actualización al 18-02-2021.
 ```
